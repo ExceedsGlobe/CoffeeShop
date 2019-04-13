@@ -16,7 +16,7 @@ import android.widget.TextView;
 import org.w3c.dom.Text;
 
 public class MainActivity extends AppCompatActivity {
-    int quantity=90;
+    int quantity=1;
     String name="";
 
 
